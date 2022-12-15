@@ -47,29 +47,29 @@ h4 {
 }
 
 .solid_right {
-    border-color:#fff; 
+    border-color: #fff;
     box-shadow: 0 0 0 8px #fff, 0 0 0 9px #fff;
     background: #fff;
-    width: 60%
+    width: 60%;
 }
 
 .solid_left {
-    border-color:#fff; 
+    border-color: #fff;
     box-shadow: 0 0 0 8px #fff, 0 0 0 9px #fff;
     background: #fff;
-    width: 60%
+    width: 60%;
 }
 
 .solid_center {
-    border-color:#fff; 
+    border-color: #fff;
     box-shadow: 0 0 0 8px #fff, 0 0 0 9px #fff;
     background: #fff;
-    width:60%
+    width: 60%;
 }
 
 .circle {
-    width:350px;
-    height:350px;
-    border-radius:350px;
-    background:#35AFFF
+    width: 350px;
+    height: 350px;
+    border-radius: 350px;
+    background: #35AFFF;
 }
